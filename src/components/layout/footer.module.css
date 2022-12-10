@@ -1,0 +1,43 @@
+.footer{
+    display: flex;
+    background-color: rgb(42, 105, 105);
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 2rem;
+}
+
+.copy{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
+
+.copy_1{
+    color: white;
+}
+
+.rsociais{
+    display: flex;
+    justify-content: center;
+}
+
+.itens{
+  margin-right: 1rem;
+}
+.link{
+    color: black;
+    font-size:1.5rem;
+    cursor: pointer;
+}
+
+.rtitle{
+    margin-left: 42px;
+    margin-bottom: 5px;
+    font-size:1.2rem;
+    color:white;
+}
+
+.link:hover{
+    color: greenyellow;
+}
+
