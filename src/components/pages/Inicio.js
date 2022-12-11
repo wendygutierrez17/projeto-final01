@@ -1,8 +1,8 @@
 import React from "react"
-
+import styles from "./inicio.module.css"
 function Inicio() {
     return(
-<div>Aqui é Inicio</div>
+<div className={styles.titulo}>Início</div>
     )
 }
 export default Inicio

@@ -22,7 +22,7 @@ function App() {
       <Route path="/contato" element={<Contato/>}/>
 
     </Routes>
-    <Container />
+    </Container>
     <Footer />
    </Router>
   )
