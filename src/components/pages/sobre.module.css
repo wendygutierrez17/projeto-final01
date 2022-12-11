@@ -6,11 +6,7 @@
     display: flex;
     align-items: center;
 }
-.sobre_h{
-    font-size: 24px;
-    padding: 0 2rem;
-    margin-bottom: 5px;
-}
+
 
 .sobre_p{
     padding: 0 2rem;
@@ -21,3 +17,4 @@
     margin-bottom: 30px;
     margin-left: 20px;
 }
+

@@ -17,13 +17,15 @@
 }
 
 .link{
-    color: white;
+    color: #fff;
 }
 
 .title{
-   color: rgb(232, 193, 36);
+    color: rgb(218, 222, 217);
 }
 
 .link:hover{
-    color: rgb(52, 176, 81);
+    color: rgb(19, 156, 119);
 }
+
+

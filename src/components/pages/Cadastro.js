@@ -1,8 +1,11 @@
 import React from "react"
 
-function Cadastro() {
+function Cadastro(){
     return(
-<div>Aqui é cadastra-se</div>
+        <div>
+            <h2>Aqui é cadastre-se</h2>
+        </div>
     )
 }
 export default Cadastro
+

@@ -8,12 +8,12 @@
 
 .copy{
     text-align: center;
-    color: white;
+    color: #fff;
     margin-top: 5px;
 }
 
 .copy_1{
-    color: white;
+    color: #fff;
 }
 
 .rsociais{
@@ -21,23 +21,24 @@
     justify-content: center;
 }
 
-.itens{
-  margin-right: 1rem;
+.item{
+    margin-right: 1rem;
 }
+
 .link{
-    color: black;
-    font-size:1.5rem;
+    color: rgb(8, 8, 8);
+    font-size: 1.6rem;
     cursor: pointer;
 }
 
 .rtitle{
     margin-left: 42px;
     margin-bottom: 5px;
-    font-size:1.2rem;
-    color:white;
+    font-size: 1.2rem;
+    color: #fff;
 }
 
 .link:hover{
-    color: greenyellow;
+    color: rgb(170, 165, 165); 
 }
 
