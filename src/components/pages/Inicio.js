@@ -8,7 +8,7 @@ function Inicio(){
               
 <p className={styles.inicio}> Beneficio de saúde e bem- estar para empresas e colaboradores. 
 Profissionais que te dão um acompanhamento mental e físico.
-Desenvolva hábitos mais saudáveis com foco no bem estar e a sua produtividade. </p>
+Desenvolva hábitos mais saudáveis com foco no bem estar e na sua produtividade. </p>
 </div> 
 
     )

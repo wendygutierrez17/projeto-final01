@@ -7,7 +7,7 @@ function Navbar(){
         <nav className={styles.main}>
 
             <div>
-                <Link><h3 className={styles.title}>Teste</h3></Link>
+                <Link><h3 className={styles.title}>Nous Power</h3></Link>
             </div>
             
             <div>

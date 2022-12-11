@@ -13,9 +13,9 @@ function Sobre(){
                     <img className={styles.imagem_sobre} src={imag} alt="sobre-nos" width={500} height={300}/>
                 </div>
                 <div>
-                    <p className={styles.sobre_p}>A Nous Power surge da percepção da necessidade do bem-estar para as empresas e colaboradores.
+                    <p className={styles.sobre_p}>A Nous Power é uma plataforma desde 2002, surge da percepção da necessidade do bem-estar para as empresas e colaboradores.
 
-Onde será possível encontrar por profissionais comprometidos com a parte física e mental com o bem-estar dos seus pacientes, unindo profissionais que se dedicam a este propósito.</p>
+Onde será possível encontrar por profissionais comprometidos com o propósito na parte física e mental dos seus pacientes.</p>
                 </div>
             </div>
 

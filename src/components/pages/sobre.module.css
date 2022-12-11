@@ -9,6 +9,7 @@
 
 
 .sobre_p{
+    text-align: justify;
     padding: 0 2rem;
     font-size: 19px;
 }
