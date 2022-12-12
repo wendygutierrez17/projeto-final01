@@ -1,0 +1,104 @@
+{
+    "habitos": [
+        {
+            "id": 1,
+            "nome": "Tomar 2 litros de agua durante o dia",
+            "categoria": "alimentação"
+        },
+        {
+           "id": 2,
+           "nome": "Invista em alimentos orgâicos e integrais",
+           "categoria": "alimentação"
+        },
+        {
+            "id": 3,
+            "nome": "Evite ficar muito tempo sem comer",
+            "categoria": "alimentação"
+            },
+        { 
+            "id": 4,
+            "nome": "Diminua o consumo de sal",
+            "categoria": "alimentação"
+        },
+        {
+            "id": 5,
+            "nome": "Reduza a gordura",
+            "categoria": "alimentação"
+        },
+        {
+            "id": 6, 
+            "nome": "Fuja das bebidas alcoólicas",
+            "categoria": "alimentação"
+        },
+        {
+            "id": 7,
+            "nome": "Coma mais frutas, legumes e verduras",
+            "categoria": "alimentação"
+        },
+        {
+            "id": 8,
+            "nome": "Prepare lanches para comer fora de casa",
+            "categoria": "alimentação"
+        },
+        {
+            "id": 9,
+            "nome": "Coma devagar",
+            "categoria": "alimentação"
+        },
+        {
+            "id": 10,
+            "nome": "Não pule refeições",
+            "categoria": "alimentação"
+        },
+        { 
+            "id": 11,
+            "nome": "Faça alongamentos ao longo do dia",
+            "categoria": "atividades fisicas"
+        },
+        {
+            "id": 12,
+            "nome": "Tome banhos gelados os últimos minutos ao tomar banho",
+            "categoria": "atividades fisicas"
+        },
+        {
+            "id": 13,
+            "nome": "Caminhadas 10 a 20 minutos por dia",
+            "categoria": "atividades fisicas"
+         }, 
+         { 
+             "id": 14, 
+             "nome": "nadar uma vez por semana durante 40 minutos",
+             "categoria": "atividades fisicas"
+        },
+         {
+             "id": 15, 
+             "nome": "Correr 30 minutos por dia",
+             "categoria": "atividades fisicas"
+         },
+        {
+             "id": 16,
+             "nome": "fique na ponta dos pés por alguns segundos e repita 3 vezes",
+             "categoria": "atividades fisicas"
+        },
+        {
+             "id": 17,
+             "nome": "Faça 50 agachamentos por dia",
+             "categoria": "atividades fisicas"
+         },
+         {
+             "id": 18,
+             "nome": "Reduz a tensão nos ombros fazendo movimentos circulares",
+             "categoria": "atividades fisicas"
+        },
+        {
+             "id":19,
+             "nome": "Levante as pernas enquanto está sentado na altura do quadril várias vezes e segure-as",
+             "categoria": "atividades fisicas"
+         },
+         {
+             "id": 20,
+             "nome": "Gire periodicamente os pulsos e feche e abra as mãos",
+             "categoria": "atividades fisicas"
+        }
+    ]
+}
